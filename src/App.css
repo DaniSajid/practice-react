@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(246, 246, 246);
+}
+.css-color{
+    background-color: #bc6c25;
+}
+.css{
+    height: 600px;
+    width: 100%;
+    object-fit:contain;
+    background-color: #bc6c25;
+}
+.css-color:hover{
+    color: black !important;
+    background-color: #dda15e !important;
+}
+.color-design{
+    
+}
+.layout{
+    background-color: #bc6c25 ;
+    border-top-right-radius: 150px !important;
+    
+}
+.card-image-custom{
+    height: 220px;
+   object-fit: contain;
+}
+.css1{
+    height: 30px;
+    width: 60px !important;
+    
+}
+.align{
+    display: flex !important;
+    flex-direction:row !important;
+}
+.ss{
+    display: flex;
+
+}
+.alignForm{
+    width: 100% !important;
+display: flex !important;
+justify-content: center !important;
+align-items: center !important;
+flex-direction: column;
+
+}
+
+.widt{
+    width: max-content !important;
+}
+
+.alignDiv{
+    display: flex;
+}
+.alignDiv input{
+    width: max-content;
+}
